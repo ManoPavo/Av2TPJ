@@ -1,9 +1,0 @@
-[gd_scene format=3 uid="uid://cddr4gaophqtt"]
-
-[ext_resource type="Script" uid="uid://bet050b5p5a70" path="res://node_3d.gd" id="1_4dvx7"]
-
-[node name="projetil" type="Node3D" unique_id=192430470]
-script = ExtResource("1_4dvx7")
-
-[node name="CSGSphere3D" type="CSGSphere3D" parent="." unique_id=1970129875]
-radius = 0.1
